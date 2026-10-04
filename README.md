@@ -19,3 +19,6 @@ The TP53 gene is a very important tumor suppressor gene, and its mutations are s
 
 ## 💡 Why This Matters
 This project helped me improve my data processing skills. It shows that I can handle biological data formats, use databases, and write Python scripts to solve real bioengineering problems.
+
+## Acknowledgments
+This project was developed as part of my self-directed learning journey in SQL and data management for biopharmaceutical applications. I utilized AI tools as a pair-programmer to accelerate my learning process, debug queries efficiently, and structure my technical documentation according to industry standards.
